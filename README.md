@@ -50,7 +50,7 @@ python checker.py --verify test_folder
 
 Why This Project?
 
-This tool is a mini cybersecurity project designed for beginners to understand how hashing can help maintain file integrity. It’s great for students, interns, and self-learners who want a hands-on idea for their GitHub portfolio.
+This tool is a mini cybersecurity project designed for beginners and cybersecurity enthusiasts to understand how hashing can help maintain file integrity. It’s great for students, interns, and self-learners who want a hands-on idea for their GitHub portfolio.
 
 
 
